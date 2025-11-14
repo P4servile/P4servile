@@ -15,4 +15,4 @@ I'm currently studying Computer Science, and I aspire to be in the cybersecurity
 
 ## Contact Me
 - LinkedIn: [linkedin.com/in/nasir-nolan](https://www.linkedin.com/in/nasir-nolan-905286264/)
-- GitHub: [github.com/GhostlyJester](https://github.com/P4servil)
+- GitHub: [github.com/P4servile](https://github.com/P4servile)
