@@ -12,7 +12,7 @@ I'm currently studying electrical Engineering and with a intresting software and
 
 ## Languages
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="50">
-<img width="360" height="405" alt="image" src="https://github.com/user-attachments/assets/6fb79003-b1de-455e-814d-f3baf1150586" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6fb79003-b1de-455e-814d-f3baf1150586" />
 
 
 ## Contact Me
