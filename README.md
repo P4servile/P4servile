@@ -4,7 +4,7 @@
 </p>
 
 ## About Me
-I'm currently studying electrical Engineering and with a intresting software and hardware engineering 
+I'm currently studying electrical Engineering and with an intrest in software and hardware engineering 
 
 ## Badges
 [![An image of @ghostlyjester's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghostlyjester)](https://holopin.io/@ghostlyjester)
